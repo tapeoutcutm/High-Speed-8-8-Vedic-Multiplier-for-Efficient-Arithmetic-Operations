@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "Vedic 4x4 Multiplier"      # Project title
+  title:        "High-Speed-4x4-Vedic-Multiplier-for-Efficient-Arithmetic-Operations"      # Project title
   author:       "Shruthi Rekhana"           # Your name
   discord:      ""                          # Your discord username (optional)
   description:  "Implements a 4x4 Vedic multiplier using Verilog."  # One line description of what your project does
